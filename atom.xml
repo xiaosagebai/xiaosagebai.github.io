@@ -6,7 +6,7 @@
   <link href="https://xiaosagebai.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiaosagebai.github.io/"/>
-  <updated>2023-09-26T07:05:49.606Z</updated>
+  <updated>2023-09-26T07:08:30.449Z</updated>
   <id>https://xiaosagebai.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xiaosagebai.github.io/2019/04/29/Python%E5%AD%A6%E4%B9%A0/"/>
     <id>https://xiaosagebai.github.io/2019/04/29/Python%E5%AD%A6%E4%B9%A0/</id>
     <published>2019-04-29T21:49:00.000Z</published>
-    <updated>2023-09-26T07:05:49.606Z</updated>
+    <updated>2023-09-26T07:08:30.449Z</updated>
     
     <content type="html"><![CDATA[<h4 id="语言类型"><a href="#语言类型" class="headerlink" title="语言类型"></a>语言类型</h4><h4 id="类型系统"><a href="#类型系统" class="headerlink" title="类型系统"></a>类型系统</h4><h4 id="模块系统"><a href="#模块系统" class="headerlink" title="模块系统"></a>模块系统</h4><h4 id="作用域"><a href="#作用域" class="headerlink" title="作用域"></a>作用域</h4><h4 id="编程范式及特色"><a href="#编程范式及特色" class="headerlink" title="编程范式及特色"></a>编程范式及特色</h4><h4 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h4><h6 id="一-基本语法"><a href="#一-基本语法" class="headerlink" title="(一)基本语法"></a>(一)基本语法</h6><ul><li>数据类型<ul><li><p>数字类型</p><ul><li>int</li><li>float</li><li>decimal</li><li>fraction</li></ul></li><li><p>字符串</p></li><li><p>类型容器</p><ul><li>list</li><li>tuple</li><li>dict</li></ul></li><li><p>对象</p></li></ul></li></ul>]]></content>
     
@@ -41,7 +41,7 @@
     <link href="https://xiaosagebai.github.io/2019/04/29/MarkDown%E5%AD%A6%E4%B9%A0/"/>
     <id>https://xiaosagebai.github.io/2019/04/29/MarkDown%E5%AD%A6%E4%B9%A0/</id>
     <published>2019-04-29T19:10:00.000Z</published>
-    <updated>2023-09-26T07:05:49.606Z</updated>
+    <updated>2023-09-26T07:08:30.449Z</updated>
     
     
     
@@ -54,7 +54,7 @@
     <link href="https://xiaosagebai.github.io/2019/04/29/Python%E5%AD%A6%E4%B9%A0(%E4%BA%8C)/"/>
     <id>https://xiaosagebai.github.io/2019/04/29/Python%E5%AD%A6%E4%B9%A0(%E4%BA%8C)/</id>
     <published>2019-04-29T19:10:00.000Z</published>
-    <updated>2023-09-26T07:05:49.606Z</updated>
+    <updated>2023-09-26T07:08:30.449Z</updated>
     
     <content type="html"><![CDATA[<h4 id="一-产生背景"><a href="#一-产生背景" class="headerlink" title="(一)产生背景"></a>(一)产生背景</h4><h4 id="二-应用场景"><a href="#二-应用场景" class="headerlink" title="(二)应用场景"></a>(二)应用场景</h4><h4 id="三-语言特点"><a href="#三-语言特点" class="headerlink" title="(三)语言特点"></a>(三)语言特点</h4><h4 id="四-数据结构"><a href="#四-数据结构" class="headerlink" title="(四)数据结构"></a>(四)数据结构</h4><h4 id="五-逻辑结构"><a href="#五-逻辑结构" class="headerlink" title="(五)逻辑结构"></a>(五)逻辑结构</h4><h4 id="六-定义独立模块"><a href="#六-定义独立模块" class="headerlink" title="(六)定义独立模块"></a>(六)定义独立模块</h4><h4 id="七-组织代码结构"><a href="#七-组织代码结构" class="headerlink" title="(七)组织代码结构"></a>(七)组织代码结构</h4><h4 id="八-提高代码复用率"><a href="#八-提高代码复用率" class="headerlink" title="(八)提高代码复用率"></a>(八)提高代码复用率</h4><h4 id="九-关注性能"><a href="#九-关注性能" class="headerlink" title="(九)关注性能"></a>(九)关注性能</h4>]]></content>
     
@@ -76,7 +76,7 @@
     <link href="https://xiaosagebai.github.io/2019/04/29/%E9%AB%98%E7%BB%B4%E5%90%91%E9%87%8F%E7%9B%B8%E4%BC%BC%E7%AE%97%E6%B3%95/"/>
     <id>https://xiaosagebai.github.io/2019/04/29/%E9%AB%98%E7%BB%B4%E5%90%91%E9%87%8F%E7%9B%B8%E4%BC%BC%E7%AE%97%E6%B3%95/</id>
     <published>2019-04-29T02:30:23.000Z</published>
-    <updated>2023-09-26T07:05:49.606Z</updated>
+    <updated>2023-09-26T07:08:30.449Z</updated>
     
     <content type="html"><![CDATA[<h3 id="HNSW"><a href="#HNSW" class="headerlink" title="HNSW"></a>HNSW</h3><h4 id="KNN"><a href="#KNN" class="headerlink" title="KNN"></a>KNN</h4>]]></content>
     
@@ -98,7 +98,7 @@
     <link href="https://xiaosagebai.github.io/2019/04/28/%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1%E5%92%8C%E4%B8%8D%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1/"/>
     <id>https://xiaosagebai.github.io/2019/04/28/%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1%E5%92%8C%E4%B8%8D%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1/</id>
     <published>2019-04-28T23:00:00.000Z</published>
-    <updated>2023-09-26T07:05:49.606Z</updated>
+    <updated>2023-09-26T07:08:30.449Z</updated>
     
     <content type="html"><![CDATA[<h4 id="什么是可变-不可变对象"><a href="#什么是可变-不可变对象" class="headerlink" title="什么是可变&#x2F;不可变对象"></a>什么是可变&#x2F;不可变对象</h4><h4 id=""><a href="#" class="headerlink" title=""></a></h4>]]></content>
     
